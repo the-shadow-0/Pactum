@@ -241,20 +241,6 @@ class MetricsPlugin(PactumPlugin):
 
 ---
 
-## 🗺️ Roadmap
-
-### ✅ MVP (v0.1) — Current
-
-- [x] Contract DSL (`@contract` decorator)
-- [x] Deterministic runtime with seeded PRNG
-- [x] Token-level tracer
-- [x] Snapshot store (content-addressed, local FS)
-- [x] Replay engine
-- [x] CLI (`init`, `run`, `replay`, `test`, `fuzz`, `mock generate`)
-- [x] LLM adapters (OpenAI, Stub)
-- [x] Plugin system with hooks
-- [x] Test harness with mock generation & fuzzing
-- [x] Full test suite
 
 ### 🔄 v1.0 — Planned
 
