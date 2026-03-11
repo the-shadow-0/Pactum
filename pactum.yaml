@@ -1,0 +1,20 @@
+version: 1
+name: pactum-config
+
+llm_adapters:
+  - name: openai
+    type: openai
+    env_prefix: OPENAI_
+  - name: stub
+    type: stub
+    default_response: "This is a stub response."
+
+snapshot_store:
+  type: local
+  path: .pactum/snapshots
+
+ci:
+  test_command: "pactum test --ci"
+  fail_on_violation: true
+
+plugins: []
