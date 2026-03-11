@@ -242,14 +242,6 @@ class MetricsPlugin(PactumPlugin):
 ---
 
 
-### 🔄 v1.0 — Planned
-
-- [ ] TypeScript SDK
-- [ ] GitHub Action + snapshot diffs in PRs
-- [ ] Dashboard trace UI
-- [ ] Memory schema migration & enforcement
-- [ ] Property-based testing
-- [ ] Async contract support
 
 ### 🔮 Future
 
