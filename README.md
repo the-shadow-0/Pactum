@@ -11,7 +11,6 @@
   <a href="#-features">Features</a> •
   <a href="#-examples">Examples</a> •
   <a href="docs/">Documentation</a> •
-  <a href="#-roadmap">Roadmap</a>
 </p>
 
 <p align="center">
