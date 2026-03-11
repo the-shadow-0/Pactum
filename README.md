@@ -242,17 +242,6 @@ class MetricsPlugin(PactumPlugin):
 ---
 
 
-
-### 🔮 Future
-
-- [ ] Enterprise plugins (SAML, secure storage)
-- [ ] Distributed snapshot store
-- [ ] Real-time monitoring (Prometheus, OpenTelemetry)
-- [ ] Token-level redaction
-- [ ] Contract marketplace
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! See our [docs](docs/) for architecture details.
