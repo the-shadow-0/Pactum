@@ -1,5 +1,5 @@
 """
-Pactum Tracer — records token-level events, tool calls, LLM completions, 
+Pactum Tracer — records token-level events, tool calls, LLM completions,
 and memory reads/writes during contract execution.
 """
 
