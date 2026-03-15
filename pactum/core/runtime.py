@@ -1,5 +1,5 @@
 """
-Pactum Runtime — the central execution engine for AI Contracts. 
+Pactum Runtime — the central execution engine for AI Contracts.
 Orchestrates contract execution, validation, tracing, snapshots, and plugins.
 """
 
