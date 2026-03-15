@@ -1,4 +1,4 @@
-""" 
+"""
 Pactum ExecutionContext — the context object passed to contract functions.
 Provides access to LLM, tools, memory, tracing, and seeded randomness.
 """
