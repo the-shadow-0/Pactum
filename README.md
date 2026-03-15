@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">🔏 Pactum</h1>
-  <p align="center"><strong>The AI Contract Runtime</strong></p> 
+  <p align="center"><strong>The AI Contract Runtime</strong></p>
   <p align="center">
     <em>First-class, versioned, testable interfaces and deterministic runtimes for AI components.</em>
   </p>
