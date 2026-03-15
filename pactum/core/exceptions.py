@@ -1,5 +1,5 @@
 """
-Pactum exceptions — all error types raised by the runtime. 
+Pactum exceptions — all error types raised by the runtime.
 """
 
 
