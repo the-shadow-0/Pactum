@@ -1,5 +1,5 @@
 """
-Pactum Contract DSL — declarative, versioned, enforceable interfaces for AI components. 
+Pactum Contract DSL — declarative, versioned, enforceable interfaces for AI components.
 """
 
 from __future__ import annotations
