@@ -1,5 +1,5 @@
 """
-Pactum Validator — enforces contract rules: input/output types, 
+Pactum Validator — enforces contract rules: input/output types,
 memory schema, tool access, non-determinism budget, and invariants.
 """
 
