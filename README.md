@@ -1,4 +1,4 @@
-<p align="center">      
+<p align="center">       
   <h1 align="center">🔏 Pactum</h1>
   <p align="center"><strong>The AI Contract Runtime</strong></p>
   <p align="center">
